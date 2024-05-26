@@ -1,2 +1,1 @@
-# Javascript_learning.
-from basics to advance java-script 
+# js learnings from basics to advance.
