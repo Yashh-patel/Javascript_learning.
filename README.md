@@ -75,7 +75,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Yash Patel - [your-email@example.com](mailto:your-email@example.com)
+Yash Patel - [yp0344822@gmail.com](mailto:yp0344822@gmail.com)
 
 Project Link: [https://github.com/Yashh-patel/Javascript_learning](https://github.com/Yashh-patel/Javascript_learning)
 
