@@ -23,18 +23,9 @@ Welcome to the JavaScript Learning repository! This repository is designed to he
 ## Technologies Used
 
 - **JavaScript**
-- **HTML**
-- **CSS**
-
 ## Installation
 
 To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-- Web browser (e.g., Google Chrome, Mozilla Firefox)
-- Text editor or IDE (e.g., Visual Studio Code, Sublime Text)
-
 ### Installation Steps
 
 1. Clone the repository:
